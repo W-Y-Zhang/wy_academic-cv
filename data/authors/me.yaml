@@ -15,7 +15,9 @@ role: M.Sc. Student in Mechatronics & Robotics
 bio: |
   I am an M.Sc. student in Mechatronics and Information Technology at Karlsruhe Institute of Technology (KIT), specializing in Robotics.
 
-  My research interests include embodied AI, robot learning, vision-language-action models, and robotic perception. My current Master's thesis focuses on object-centric VLA models for few-shot adaptation across different robotic embodiments.
+  I am conducting my Master's thesis at [High Performance Humanoid Technologies (H²T)](https://h2t.iar.kit.edu/), Institute for Anthropomatics and Robotics, under the supervision of [Prof. Dr.-Ing. Tamim Asfour](https://h2t.iar.kit.edu/tamim-asfour.php). My research explores object-centric vision-language-action models for few-shot adaptation across robotic embodiments.
+
+  I am seeking Ph.D. opportunities starting in **Fall 2027** in embodied AI, vision-language-action models, robot learning, and robotic manipulation.
 
 affiliations:
   - name: Karlsruhe Institute of Technology
@@ -24,6 +26,8 @@ affiliations:
 links:
   - icon: brands/github
     url: https://github.com/W-Y-Zhang
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/wenyuan-zhangkit/
   - icon: at-symbol
     url: mailto:uzhhj@student.kit.edu
 
@@ -31,13 +35,15 @@ interests:
   - Embodied AI
   - Vision-Language-Action Models
   - Robot Learning
-  - Robotic Perception
+  - Robotic Manipulation
 
 education:
   - degree: M.Sc. Mechatronics and Information Technology
     institution: Karlsruhe Institute of Technology
     summary: |
-      Specialization in Robotics. Apr. 2024 -- Present.
+      Specialization in Robotics. Expected graduation: **March 2027**.
+
+      Current overall grade: **1.8** based on completed coursework (German grading scale; 1.0 is the highest grade).
   - degree: B.Eng. Electrical Engineering and Automation
     institution: Qingdao University
     summary: |
@@ -51,11 +57,20 @@ experience:
     summary: |
       **Panoptic Segmentation for Robotic Perception**
 
-      Upgraded CUDA and PyTorch environments for multiple panoptic-segmentation baselines, adapted training and evaluation pipelines to the ARIBIC dataset, and built a reproducible Docker workflow. Improved panoptic quality (PQ) by up to 20% through hyperparameter tuning and model evaluation.
+      Upgraded CUDA and PyTorch environments for multiple panoptic-segmentation baselines and adapted their training and evaluation pipelines to the institute's in-house **ARIBIC dataset**. Developed data-conversion pipelines from ARIBIC to **S3DIS, nuScenes, KITTI, and COCO** formats to support model training and cross-framework evaluation, and built a reproducible Docker workflow. Improved panoptic quality (PQ) by up to 20% through hyperparameter tuning and model evaluation.
 
       **Dual-LiDAR AGV Localization and Mapping**
 
       Developed synchronized front/rear LiDAR fusion with coordinate transforms and 360° scan resampling. Adapted an open-source FastSLAM pipeline and built a GMapping + AMCL workflow to compare localization trajectories on the same real-world AGV dataset.
+
+awards:
+  - title: Third-Class Scholarship (received three times)
+    awarder: Qingdao University
+    date: 2021-02-01
+    summary: Awarded in September 2019, August 2020, and February 2021.
+  - title: Third Prize, Undergraduate Electronic Design Competition
+    awarder: Qingdao University
+    date: 2018-10-01
 
 skills:
   - name: Programming

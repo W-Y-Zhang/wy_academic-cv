@@ -52,6 +52,13 @@ sections:
       date_format: 'January 2006'
       css_class: homepage-research-only
 
+  - block: resume-awards
+    content:
+      username: me
+      title: Honors & Awards
+    design:
+      date_format: 'January 2006'
+
   - block: features
     content:
       title: Technical Skills
@@ -76,11 +83,17 @@ sections:
       title: Contact
       subtitle: ''
       text: |-
-        I am interested in research topics related to **embodied AI, robot learning, vision-language-action models, and robotic perception**.
+        I am seeking **Ph.D. opportunities starting in Fall 2027** in embodied AI, vision-language-action models, robot learning, and robotic manipulation.
 
-        **Email:** [uzhhj@student.kit.edu](mailto:uzhhj@student.kit.edu)  
-        **Location:** Karlsruhe, Germany  
+        **Email:** [uzhhj@student.kit.edu](mailto:uzhhj@student.kit.edu)
+
+        **Location:** Karlsruhe, Germany
+
         **GitHub:** [W-Y-Zhang](https://github.com/W-Y-Zhang)
+
+        **LinkedIn:** [wenyuan-zhangkit](https://www.linkedin.com/in/wenyuan-zhangkit/)
+
+        **CV available upon request.**
     design:
       columns: '1'
 ---

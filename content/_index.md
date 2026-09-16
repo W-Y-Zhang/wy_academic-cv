@@ -23,6 +23,12 @@ sections:
         size: large
         shape: rounded
 
+  - block: resume-experience
+    content:
+      username: me
+    design:
+      date_format: 'January 2006'
+
   - block: portfolio
     id: projects
     content:

@@ -23,6 +23,13 @@ Developed an end-to-end robotic manipulation pipeline that converts natural-lang
 
 The perception pipeline combines a vision-language model for target identification, **Grounded-SAM2** for instance segmentation, and **FoundationPose** for 6D object pose estimation from RGB-D observations.
 
+## Demonstration
+
+<video controls playsinline preload="metadata" aria-label="Vision- and language-guided robotic grasping demonstration" style="display:block;width:100%;max-width:960px;margin:1.5rem auto;border-radius:0.75rem;box-shadow:0 10px 30px rgba(0,0,0,0.16);">
+  <source src="demo.mp4" type="video/mp4">
+  Your browser does not support embedded MP4 video.
+</video>
+
 ## Tracking and Re-Detection
 
 Designed a follow-then-grasp strategy combining optical-flow and depth feedback with loss-triggered re-detection and mask refresh before pose estimation.

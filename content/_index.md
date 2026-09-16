@@ -9,9 +9,6 @@ sections:
     content:
       username: me
       text: ''
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
       headings:
         about: About Me
         education: Education

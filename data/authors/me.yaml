@@ -91,5 +91,5 @@ languages:
     level: 4
     label: IELTS 6.5
   - name: German
-    level: 5
-    label: telc C1
+    level: 3.5
+    label: 70%

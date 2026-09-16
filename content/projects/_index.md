@@ -3,20 +3,22 @@ title: 'Projects'
 date: 2024-05-19
 type: landing
 
-# Page sections
 sections:
-  - block: collection
+  - block: portfolio
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      subtitle: Robotics, perception, and embodied AI projects
       filters:
         folders:
           - projects
+      buttons:
+        - name: All
+          tag: '*'
+      archive:
+        enable: false
     design:
-      view: article-grid
-      fill_image: false
       columns: 3
-      show_date: false
-      show_read_time: false
-      show_read_more: false
+      fallback_icon: academic-cap
+      status_badge:
+        enable: true
 ---

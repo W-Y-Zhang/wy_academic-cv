@@ -49,20 +49,6 @@ sections:
 
   - block: features
     content:
-      title: Research Experience
-      subtitle: Research Assistant · Institute for Material Handling and Logistics (IFL), Karlsruhe Institute of Technology · Karlsruhe, Germany · Jun. 2025 – May 2026
-      items:
-        - name: Panoptic Segmentation for Robotic Perception
-          description: Upgraded CUDA/PyTorch environments and adapted multiple panoptic-segmentation baselines to the ARIBIC dataset in a reproducible Docker pipeline. Benchmarked models and improved panoptic quality (PQ) by up to 20% through hyperparameter tuning and evaluation.
-          icon: hero/squares-2x2
-        - name: Dual-LiDAR AGV Localization and Mapping
-          description: Developed synchronized front/rear LiDAR fusion with coordinate transforms and 360° scan resampling. Adapted a FastSLAM pipeline and built a GMapping + AMCL workflow to compare localization trajectories on the same real-world AGV dataset.
-          icon: hero/map
-    design:
-      columns: '2'
-
-  - block: features
-    content:
       title: Technical Skills
       items:
         - name: Programming

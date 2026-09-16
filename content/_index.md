@@ -8,10 +8,7 @@ sections:
   - block: resume-biography-3
     content:
       username: me
-      text: |-
-        <div style="display:flex;justify-content:center;margin:0 0 1.25rem 0;">
-          <img src="profile.svg" alt="Wenyuan Zhang" style="width:170px;height:170px;object-fit:cover;border-radius:50%;box-shadow:0 4px 16px rgba(0,0,0,0.15);" />
-        </div>
+      text: ''
       button:
         text: Download CV
         url: uploads/resume.pdf
@@ -26,8 +23,8 @@ sections:
       name:
         size: md
       avatar:
-        size: medium
-        shape: circle
+        size: large
+        shape: rounded
 
   - block: portfolio
     id: projects

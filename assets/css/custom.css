@@ -1,0 +1,4 @@
+/* The biography block already shows education; keep this timeline research-only. */
+.homepage-research-only .mx-auto > .flex.flex-col > .w-full:nth-child(2) {
+  display: none;
+}

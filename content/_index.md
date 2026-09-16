@@ -23,12 +23,6 @@ sections:
         size: large
         shape: rounded
 
-  - block: resume-experience
-    content:
-      username: me
-    design:
-      date_format: 'January 2006'
-
   - block: portfolio
     id: projects
     content:
@@ -49,6 +43,14 @@ sections:
       fallback_icon: academic-cap
       status_badge:
         enable: true
+
+  - block: resume-experience
+    id: research-experience
+    content:
+      username: me
+    design:
+      date_format: 'January 2006'
+      css_class: homepage-research-only
 
   - block: features
     content:

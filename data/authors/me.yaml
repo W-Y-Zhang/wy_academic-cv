@@ -57,11 +57,11 @@ experience:
     summary: |
       **Panoptic Segmentation for Robotic Perception**
 
-      Upgraded CUDA and PyTorch environments for multiple panoptic-segmentation baselines and adapted their training and evaluation pipelines to the institute's in-house **ARIBIC dataset**. Developed data-conversion pipelines from ARIBIC to S3DIS, nuScenes, KITTI, and COCO formats to support model training and cross-framework evaluation, and built a reproducible Docker workflow. Improved panoptic quality (PQ) by up to 20% through hyperparameter tuning and model evaluation.
+      Upgraded CUDA and PyTorch environments for multiple panoptic-segmentation baselines and adapted their training and evaluation pipelines to the institute's **in-house ARIBIC dataset**. Developed data-conversion pipelines from ARIBIC to S3DIS, nuScenes, KITTI, and COCO formats to support model training and cross-framework evaluation, and built a reproducible Docker workflow. **Improved panoptic quality (PQ) by up to 20%** through hyperparameter tuning and model evaluation.
 
       **Dual-LiDAR AGV Localization and Mapping**
 
-      Developed synchronized front/rear LiDAR fusion with coordinate transforms and 360° scan resampling. Adapted an open-source FastSLAM pipeline and built a GMapping + AMCL workflow to compare localization trajectories on the same real-world AGV dataset.
+      Developed **synchronized front/rear LiDAR fusion** with coordinate transforms and 360° scan resampling. Adapted an open-source FastSLAM pipeline and built a GMapping + AMCL workflow to compare localization trajectories on the same real-world AGV dataset.
 
 awards:
   - title: Third-Class Scholarship (received three times)

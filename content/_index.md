@@ -47,6 +47,20 @@ sections:
       status_badge:
         enable: true
 
+  - block: markdown
+    content:
+      title: Vision- and Language-Guided Robotic Grasping
+      subtitle: Project Demonstration
+      text: |-
+        <video controls playsinline preload="metadata" aria-label="Vision- and language-guided robotic grasping demonstration" style="display:block;width:100%;max-width:960px;margin:1.5rem auto;border-radius:0.75rem;box-shadow:0 10px 30px rgba(0,0,0,0.16);">
+          <source src="/projects/language-guided-grasping/demo.mp4" type="video/mp4">
+          Your browser does not support embedded MP4 video.
+        </video>
+
+        [View project details →](/projects/language-guided-grasping/)
+    design:
+      columns: '1'
+
   - block: features
     content:
       title: Technical Skills

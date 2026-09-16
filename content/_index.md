@@ -61,6 +61,20 @@ sections:
     design:
       columns: '1'
 
+  - block: markdown
+    content:
+      title: Multi-Robot Intralogistics Automation
+      subtitle: Project Demonstration
+      text: |-
+        <video controls playsinline preload="metadata" aria-label="Multi-robot intralogistics automation demonstration" style="display:block;width:100%;max-width:960px;margin:1.5rem auto;border-radius:0.75rem;box-shadow:0 10px 30px rgba(0,0,0,0.16);">
+          <source src="/projects/multi-robot-intralogistics/demo.mp4" type="video/mp4">
+          Your browser does not support embedded MP4 video.
+        </video>
+
+        [View project details →](/projects/multi-robot-intralogistics/)
+    design:
+      columns: '1'
+
   - block: features
     content:
       title: Technical Skills

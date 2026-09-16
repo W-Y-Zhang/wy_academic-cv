@@ -20,6 +20,13 @@ Developed a multi-station intralogistics automation system integrating **three 4
 
 The system performed order-driven visual picking and downstream sorting through coordinated ROS nodes.
 
+## Demonstration
+
+<video controls playsinline preload="metadata" aria-label="Multi-robot intralogistics automation demonstration" style="display:block;width:100%;max-width:960px;margin:1.5rem auto;border-radius:0.75rem;box-shadow:0 10px 30px rgba(0,0,0,0.16);">
+  <source src="demo.mp4" type="video/mp4">
+  Your browser does not support embedded MP4 video.
+</video>
+
 ## Validation
 
 Implemented inter-station task coordination and validated suction-based pick-and-place operations both in **Gazebo simulation and on physical hardware**.

@@ -13,10 +13,9 @@ name:
 role: M.Sc. Student in Mechatronics & Robotics
 
 bio: |
-  M.Sc. student at Karlsruhe Institute of Technology specializing in Robotics.
-  Experienced in robotic perception, SLAM, and vision-language models.
-  Interested in generalist robot learning, vision-language-action models,
-  and autonomous robotic systems.
+  I am an M.Sc. student in Mechatronics and Information Technology at Karlsruhe Institute of Technology (KIT), specializing in Robotics.
+
+  My research interests include embodied AI, robot learning, vision-language-action models, and robotic perception. My current Master's thesis focuses on object-centric VLA models for few-shot adaptation across different robotic embodiments.
 
 affiliations:
   - name: Karlsruhe Institute of Technology
@@ -25,37 +24,72 @@ affiliations:
 links:
   - icon: brands/github
     url: https://github.com/W-Y-Zhang
+  - icon: at-symbol
+    url: mailto:uzhhj@student.kit.edu
 
 interests:
-  - Robotics
-  - Vision-Language-Action Models
-  - Computer Vision
   - Embodied AI
+  - Vision-Language-Action Models
+  - Robot Learning
+  - Robotic Perception
+
 education:
   - degree: M.Sc. Mechatronics and Information Technology
     institution: Karlsruhe Institute of Technology
     summary: |
-      Specialization in Robotics.
+      Specialization in Robotics. Apr. 2024 -- Present.
+  - degree: B.Eng. Electrical Engineering and Automation
+    institution: Qingdao University
+    summary: |
+      Sep. 2018 -- Jun. 2022.
 
 skills:
-  - name: Technical Skills
+  - name: Programming
     items:
       - label: Python
         level: 5
+  - name: Robotics
+    items:
+      - label: ROS 1 / ROS 2
+        level: 5
+      - label: Gazebo
+        level: 4
+      - label: MuJoCo
+        level: 4
+      - label: MoveIt
+        level: 4
+      - label: Isaac Lab
+        level: 4
+  - name: Perception & ML
+    items:
       - label: PyTorch
         level: 4
-      - label: ROS
+      - label: OpenCV
         level: 4
-      - label: Isaac Sim / Isaac Lab
+      - label: SAM2
         level: 4
-      - label: Computer Vision
+      - label: FoundationPose
+        level: 4
+      - label: RGB-D / LiDAR Processing
+        level: 4
+  - name: Tools
+    items:
+      - label: Git
+        level: 4
+      - label: Docker
+        level: 4
+      - label: Linux
+        level: 4
+      - label: LaTeX
         level: 4
 
 languages:
-  - name: English
-    level: 4
-  - name: German
-    level: 3
-  - name: Chinese
+  - name: Mandarin Chinese
     level: 5
     label: Native
+  - name: English
+    level: 4
+    label: IELTS 6.5
+  - name: German
+    level: 5
+    label: telc C1

@@ -76,41 +76,26 @@ skills:
   - name: Programming
     items:
       - label: Python
-        level: 5
   - name: Robotics
     items:
       - label: ROS 1 / ROS 2
-        level: 5
       - label: Gazebo
-        level: 4
       - label: MuJoCo
-        level: 4
       - label: MoveIt
-        level: 4
       - label: Isaac Lab
-        level: 4
   - name: Perception & ML
     items:
       - label: PyTorch
-        level: 4
       - label: OpenCV
-        level: 4
       - label: SAM2
-        level: 4
       - label: FoundationPose
-        level: 4
       - label: RGB-D / LiDAR Processing
-        level: 4
   - name: Tools
     items:
       - label: Git
-        level: 4
       - label: Docker
-        level: 4
       - label: Linux
-        level: 4
       - label: LaTeX
-        level: 4
 
 languages:
   - name: Mandarin Chinese

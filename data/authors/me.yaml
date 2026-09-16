@@ -43,6 +43,20 @@ education:
     summary: |
       Sep. 2018 -- Jun. 2022.
 
+experience:
+  - role: Research Assistant
+    org: Institute for Material Handling and Logistics, Karlsruhe Institute of Technology
+    start: 2025-06-01
+    end: 2026-05-31
+    summary: |
+      **Panoptic Segmentation for Robotic Perception**
+
+      Upgraded CUDA and PyTorch environments for multiple panoptic-segmentation baselines, adapted training and evaluation pipelines to the ARIBIC dataset, and built a reproducible Docker workflow. Improved panoptic quality (PQ) by up to 20% through hyperparameter tuning and model evaluation.
+
+      **Dual-LiDAR AGV Localization and Mapping**
+
+      Developed synchronized front/rear LiDAR fusion with coordinate transforms and 360° scan resampling. Adapted an open-source FastSLAM pipeline and built a GMapping + AMCL workflow to compare localization trajectories on the same real-world AGV dataset.
+
 skills:
   - name: Programming
     items:

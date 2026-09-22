@@ -43,7 +43,6 @@ This work is in progress; no quantitative results are reported yet.
   Your browser does not support embedded MP4 video.
 </video>
 
-The video shows FoundationPose pose estimates overlaid on an ARMar6 manipulation sequence at **1.5× playback speed**.
 
 ## Tools
 

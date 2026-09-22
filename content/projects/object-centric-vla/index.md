@@ -36,15 +36,6 @@ The central research direction is to predict **object trajectories** as embodime
 
 This work is in progress; no quantitative results are reported yet.
 
-## Demonstration
-
-<video controls playsinline preload="metadata" aria-label="FoundationPose 6D object pose tracking demonstration" style="display:block;width:100%;max-width:960px;margin:1.5rem auto;border-radius:0.75rem;box-shadow:0 10px 30px rgba(0,0,0,0.16);">
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support embedded MP4 video.
-</video>
-
-The video shows FoundationPose pose estimates overlaid on an ARMar6 manipulation sequence at **1.5× playback speed**.
-
 ## Tools
 
 **Isaac Lab · GR00T · Python · Robot Teleoperation · Dataset Preprocessing**

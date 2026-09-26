@@ -1,15 +1,1 @@
-# Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
-#   The weight parameter defines the order that the links will appear in.
-
-main:
-  - name: Bio
-    url: /
-    weight: 10
-  - name: Experience
-    url: experience/
-    weight: 20
-  - name: Projects
-    url: projects/
-    weight: 30
+IyBOYXZpZ2F0aW9uIExpbmtzCiMgICBUbyBsaW5rIGEgaG9tZXBhZ2Ugd2lkZ2V0LCBzcGVjaWZ5IHRoZSBVUkwgYXMgYSBoYXNoIGAjYCBmb2xsb3dlZCBieSB0aGUgZmlsZW5hbWUgb2YgdGhlCiMgICAgIGRlc2lyZWQgd2lkZ2V0IGluIHlvdXIgYGNvbnRlbnQvaG9tZS9gIGZvbGRlci4KIyAgIFRoZSB3ZWlnaHQgcGFyYW1ldGVyIGRlZmluZXMgdGhlIG9yZGVyIHRoYXQgdGhlIGxpbmtzIHdpbGwgYXBwZWFyIGluLgoKbWFpbjoKICAtIG5hbWU6IEJpbwogICAgdXJsOiAvCiAgICB3ZWlnaHQ6IDEwCiAgLSBuYW1lOiBFeHBlcmllbmNlCiAgICB1cmw6IGV4cGVyaWVuY2UvCiAgICB3ZWlnaHQ6IDIwCiAgLSBuYW1lOiBQcm9qZWN0cwogICAgdXJsOiBwcm9qZWN0cy8KICAgIHdlaWdodDogMzAKICAtIG5hbWU6IFRhbGtzCiAgICB1cmw6IC8jdGFsa3MKICAgIHdlaWdodDogNDAKICAtIG5hbWU6IENvbnRhY3QKICAgIHVybDogLyNjb250YWN0CiAgICB3ZWlnaHQ6IDUwCg==

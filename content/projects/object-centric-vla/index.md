@@ -60,7 +60,13 @@ The offline evaluation compares predicted actions with recorded demonstration ac
 
 The table shows the expected trade-off in this training-trajectory check: longer open-loop execution between re-inference steps produces larger offline action error.
 
-![GR00T N1.7 baseline: predicted and recorded actions on training trajectory 5](/wy_academic-cv/media/projects/gr00t-baseline-traj-5.jpeg)
+<div role="region" aria-label="Baseline trajectory plot (scroll to view all dimensions)" tabindex="0" style="max-width:560px;max-height:420px;overflow:auto;margin:1.5rem auto;border:1px solid #9ca3af;border-radius:0.5rem;">
+  <a href="/wy_academic-cv/media/projects/gr00t-baseline-traj-5.jpeg" target="_blank" rel="noopener" aria-label="Open full-size baseline trajectory plot">
+    <img src="/wy_academic-cv/media/projects/gr00t-baseline-traj-5.jpeg" alt="GR00T N1.7 baseline: predicted and recorded actions on training trajectory 5" loading="lazy" style="display:block;width:100%;height:auto;margin:0;">
+  </a>
+</div>
+
+[Open full-size plot](/wy_academic-cv/media/projects/gr00t-baseline-traj-5.jpeg)
 
 *Representative training-trajectory check (`h=4`). The image shows predicted and recorded actions for one of the six training trajectories.*
 

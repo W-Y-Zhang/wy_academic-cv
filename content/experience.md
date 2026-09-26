@@ -1,1 +1,35 @@
-LS0tCnRpdGxlOiAnRXhwZXJpZW5jZScKZGF0ZTogMjAyMy0xMC0yNAp0eXBlOiBsYW5kaW5nCgpkZXNpZ246CiAgc3BhY2luZzogJzVyZW0nCgpzZWN0aW9uczoKICAtIGJsb2NrOiByZXN1bWUtZXhwZXJpZW5jZQogICAgY29udGVudDoKICAgICAgdXNlcm5hbWU6IG1lCiAgICBkZXNpZ246CiAgICAgICMgSHVnbyBkYXRlIGZvcm1hdAogICAgICBkYXRlX2Zvcm1hdDogJ0phbnVhcnkgMjAwNicKICAgICAgIyBFZHVjYXRpb24gb3IgRXhwZXJpZW5jZSBzZWN0aW9uIGZpcnN0PwogICAgICBpc19lZHVjYXRpb25fZmlyc3Q6IGZhbHNlCiAgLSBibG9jazogcmVzdW1lLXNraWxscwogICAgY29udGVudDoKICAgICAgdGl0bGU6IFRlY2huaWNhbCBTa2lsbHMKICAgICAgdXNlcm5hbWU6IG1lCiAgLSBibG9jazogcmVzdW1lLWF3YXJkcwogICAgY29udGVudDoKICAgICAgdGl0bGU6IEhvbm9ycyAmIEF3YXJkcwogICAgICB1c2VybmFtZTogbWUKICAgIGRlc2lnbjoKICAgICAgZGF0ZV9mb3JtYXQ6ICcyMDA2JwogIC0gYmxvY2s6IG1hcmtkb3duCiAgICBjb250ZW50OgogICAgICB0aXRsZTogTGFuZ3VhZ2VzCiAgICAgIHRleHQ6IHwtCiAgICAgICAgKipHZXJtYW46KiogdGVsYyBDMSDCtyAqKkVuZ2xpc2g6KiogSUVMVFMgNi41IMK3ICoqTWFuZGFyaW4gQ2hpbmVzZToqKiBuYXRpdmUKICAgIGRlc2lnbjoKICAgICAgY29sdW1uczogJzEnCi0tLQo=
+---
+title: 'Experience'
+date: 2023-10-24
+type: landing
+
+design:
+  spacing: '5rem'
+
+sections:
+  - block: resume-experience
+    content:
+      username: me
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
+  - block: resume-skills
+    content:
+      title: Technical Skills
+      username: me
+  - block: resume-awards
+    content:
+      title: Honors & Awards
+      username: me
+    design:
+      date_format: '2006'
+  - block: markdown
+    content:
+      title: Languages
+      text: |-
+        **German:** telc C1 · **English:** IELTS 6.5 · **Mandarin Chinese:** native
+    design:
+      columns: '1'
+---

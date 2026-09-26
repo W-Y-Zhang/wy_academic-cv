@@ -1,1 +1,82 @@
-LS0tCnRpdGxlOiAiQ3Jvc3MtRW1ib2RpbWVudCBCaW1hbnVhbCBWTEEgQWRhcHRhdGlvbiIKZGF0ZTogMjAyNi0wOC0wMQpsYXN0bW9kOiAyMDI2LTA5LTI2CnN1bW1hcnk6ICJNYXN0ZXLigJlzIHRoZXNpcyBhY3Jvc3MgQVJNQVItNiwgQVJNQVItNywgYW5kIGJpbWFudWFsIEZyYW5rYTogYXBwcm94aW1hdGVseSAxMCBob3VycyBvZiBBUk1BUi02IGRlbW9uc3RyYXRpb25zLCBhIHRyYWluZWQgR1IwMFQgYmFzZWxpbmUsIGFuZCBvYmplY3QtY2VudGVyZWQgdGFzayByZXByZXNlbnRhdGlvbnMgdW5kZXIgaW52ZXN0aWdhdGlvbi4iCnRhZ3M6CiAgLSBWTEEKICAtIEVtYm9kaWVkIEFJCiAgLSBSb2JvdCBMZWFybmluZwp0ZWNoX3N0YWNrOgogIC0gSXNhYWMgTGFiCiAgLSBHUjAwVAogIC0gTGVSb2JvdAogIC0gU0FNMwogIC0gRm91bmRhdGlvblBvc2UKc3RhdHVzOiAiSW4gUHJvZ3Jlc3MiCmZlYXR1cmVkOiB0cnVlCi0tLQoKIyMgUmVzZWFyY2ggUXVlc3Rpb24KCkNhbiBvYmplY3QtY2VudGVyZWQgdGFzayByZXByZXNlbnRhdGlvbnMgaW1wcm92ZSB0aGUgYWRhcHRhdGlvbiBvZiBiaW1hbnVhbCB2aXNpb24tbGFuZ3VhZ2UtYWN0aW9uIChWTEEpIHBvbGljaWVzIGFjcm9zcyByb2JvdHMgd2l0aCBkaWZmZXJlbnQgZW1ib2RpbWVudHM/CgpNeSBtYXN0ZXIncyB0aGVzaXMsICpDcm9zcy1FbWJvZGltZW50IEJpbWFudWFsIFZMQSBBZGFwdGF0aW9uIHdpdGggT2JqZWN0LWNlbnRlcmVkIFRhc2sgUmVwcmVzZW50YXRpb25zKiwgaW52ZXN0aWdhdGVzIHRoaXMgcXVlc3Rpb24gYWNyb3NzICoqQVJNQVItNiwgQVJNQVItNywgYW5kIGJpbWFudWFsIEZyYW5rYSoqLgoKKipTdXBlcnZpc29yOioqIFtQcm9mLiBEci4tSW5nLiBUYW1pbSBBc2ZvdXJdKGh0dHBzOi8vaDJ0Lmlhci5raXQuZWR1L3RhbWltLWFzZm91ci5waHApCgoqKkFkdmlzb3I6KiogRHIuLUluZy4gRGF2aWQgU2NobmVpZGVyCgoqKkxhYm9yYXRvcnk6KiogW0hpZ2ggUGVyZm9ybWFuY2UgSHVtYW5vaWQgVGVjaG5vbG9naWVzIChIwrJUKV0oaHR0cHM6Ly9oMnQuaWFyLmtpdC5lZHUvKSwgS0lUCgoqKlBlcmlvZDoqKiBBdWd1c3QgMjAyNiDigJMgcHJlc2VudCDCtyBFeHBlY3RlZCBncmFkdWF0aW9uOiBNYXJjaCAyMDI3CgojIyBXb3JrIENvbXBsZXRlZAoKLSAqKlJlYWwtcm9ib3QgZGF0YToqKiBDb2xsZWN0ZWQgYXBwcm94aW1hdGVseSAqKjEwIGhvdXJzIG9mIEFSTUFSLTYgZGVtb25zdHJhdGlvbnMqKiB0aHJvdWdoIHRlbGVvcGVyYXRpb24gYW5kIGNvbnZlcnRlZCB0aGVtIHRvIExlUm9ib3QgZm9ybWF0IGZvciBwb2xpY3kgZmluZS10dW5pbmcuCi0gKipSZWZlcmVuY2UgcG9saWN5OioqIFRyYWluZWQgYSAqKkdSMDBUIE4xLjcgYmFzZWxpbmUgb24gODAgQVJNQVItNiBkZW1vbnN0cmF0aW9ucyBmb3IgMTAsMDAwIHRyYWluaW5nIHN0ZXBzKiosIHdpdGhvdXQgb2JqZWN0LXBvc2UgaW5wdXRzLgotICoqT2JqZWN0IHRyYWplY3RvcmllczoqKiBCdWlsdCBhbiBvZmZsaW5lICoqU0FNMyArIEZvdW5kYXRpb25Qb3NlKiogcGlwZWxpbmUgZm9yIFlDQiBvYmplY3RzIGluIGNhbGlicmF0ZWQgcmVhbC1yb2JvdCBSR0ItRCByZWNvcmRpbmdzLiBUaGUgZXh0cmFjdGVkIDZEIG9iamVjdCB0cmFqZWN0b3JpZXMgYXJlIGludGVuZGVkIGZvciBzdWJzZXF1ZW50IGludGVncmF0aW9uIGFzIG9iamVjdC1jZW50ZXJlZCB0YXNrIHJlcHJlc2VudGF0aW9ucy4KLSAqKlNpbXVsYXRpb246KiogQnVpbHQgKip0aHJlZSBJc2FhYyBMYWIgZW52aXJvbm1lbnRzKiosIG9uZSBwZXIgZW1ib2RpbWVudCwgd2l0aCBwaWNrLWFuZC1wbGFjZSwgc3RhY2tpbmcsIGFuZCBwb3VyaW5nIHRhc2tzLCBpbmNsdWRpbmcgZG9tYWluIHJhbmRvbWl6YXRpb24uCi0gKipFdmFsdWF0aW9uIGRlc2lnbjoqKiBEZWZpbmVkIGEgY3Jvc3MtZW1ib2RpbWVudCBwcm90b2NvbCB1c2luZyB0YXNrIHN1Y2Nlc3MgcmF0ZXMsIHBhaXJlZC1ib290c3RyYXAgOTUlIGNvbmZpZGVuY2UgaW50ZXJ2YWxzLCBhbmQgaHVtYW4tYW5ub3RhdGVkIGZhaWx1cmUgYW5hbHlzaXMuCgojIyBCYXNlbGluZTogT2ZmbGluZSBBY3Rpb24gUHJlZGljdGlvbgoKfCBTZXR0aW5nIHwgQ3VycmVudCBiYXNlbGluZSB8CnwgLS0tIHwgLS0tIHwKfCBQb2xpY3kgfCBHUjAwVCBOMS43IHwKfCBSb2JvdCB8IEFSTUFSLTYgfAp8IFRyYWluaW5nIGRhdGEgfCA4MCBkZW1vbnN0cmF0aW9ucyB8CnwgVHJhaW5pbmcgZHVyYXRpb24gfCAxMCwwMDAgc3RlcHMgfAp8IE9mZmxpbmUgZXZhbHVhdGlvbiB8IFNpeCB0cmFpbmluZyB0cmFqZWN0b3JpZXMgZnJvbSBhIHNpbmdsZSB0YXNrIHwKfCBPYmplY3QtcG9zZSBpbnB1dHMgfCBOb3QgaW5jbHVkZWQgfAoKVGhlIG9mZmxpbmUgZXZhbHVhdGlvbiBjb21wYXJlcyBwcmVkaWN0ZWQgYWN0aW9ucyB3aXRoIHJlY29yZGVkIGRlbW9uc3RyYXRpb24gYWN0aW9ucyBvbiAqKnRyYWplY3RvcmllcyBzZWVuIGR1cmluZyB0cmFpbmluZyoqLiBIZXJlLCBgaGAgaXMgdGhlIGFjdGlvbi1jaHVuayBob3Jpem9uOiB0aGUgcG9saWN5IGV4ZWN1dGVzIGBoYCBwcmVkaWN0ZWQgc3RlcHMgYmVmb3JlIHJlLWluZmVyZW5jZS4gVGhlc2UgcmVzdWx0cyBhcmUgYSBmaXR0aW5nIGNoZWNrIGZvciB0aGUgYmFzZWxpbmU7IGhlbGQtb3V0IGdlbmVyYWxpemF0aW9uLCBjbG9zZWQtbG9vcCB0YXNrIHN1Y2Nlc3MsIGFuZCB0aGUgZWZmZWN0IG9mIG9iamVjdC1jZW50ZXJlZCByZXByZXNlbnRhdGlvbnMgcmVtYWluIHRvIGJlIGV2YWx1YXRlZC4KCnwgQWN0aW9uLWNodW5rIGhvcml6b24gKGBoYCkgfCBBdmVyYWdlIHVubm9ybWFsaXplZCBhY3Rpb24gTUFFIHwgQXZlcmFnZSB1bm5vcm1hbGl6ZWQgYWN0aW9uIE1TRSB8CnwgLS0tOiB8IC0tLTogfCAtLS06IHwKfCA0IHwgKiowLjAwNDk1KiogfCAqKjAuMDAwMzkxKiogfAp8IDggfCAwLjAwNTg2IHwgMC4wMDA0NjQgfAp8IDQwIHwgMC4wMTE4NyB8IDAuMDAxMzk1IHwKClRoZSB0YWJsZSBzaG93cyB0aGUgZXhwZWN0ZWQgdHJhZGUtb2ZmIGluIHRoaXMgdHJhaW5pbmctdHJhamVjdG9yeSBjaGVjazogbG9uZ2VyIG9wZW4tbG9vcCBleGVjdXRpb24gYmV0d2VlbiByZS1pbmZlcmVuY2Ugc3RlcHMgcHJvZHVjZXMgbGFyZ2VyIG9mZmxpbmUgYWN0aW9uIGVycm9yLgoKIVtHUjAwVCBOMS43IGJhc2VsaW5lOiBwcmVkaWN0ZWQgYW5kIHJlY29yZGVkIGFjdGlvbnMgb24gdHJhaW5pbmcgdHJhamVjdG9yeSA1XSgvd3lfYWNhZGVtaWMtY3YvbWVkaWEvcHJvamVjdHMvZ3IwMHQtYmFzZWxpbmUtdHJhai01LmpwZWcpCgoqUmVwcmVzZW50YXRpdmUgdHJhaW5pbmctdHJhamVjdG9yeSBjaGVjayAoYGg9NGApLiBUaGUgaW1hZ2Ugc2hvd3MgcHJlZGljdGVkIGFuZCByZWNvcmRlZCBhY3Rpb25zIGZvciBvbmUgb2YgdGhlIHNpeCB0cmFpbmluZyB0cmFqZWN0b3JpZXMuKgoKIyMgT2JqZWN0LVBvc2UgRGVtb25zdHJhdGlvbgoKPHZpZGVvIGNvbnRyb2xzIHBsYXlzaW5saW5lIHByZWxvYWQ9Im1ldGFkYXRhIiBhcmlhLWxhYmVsPSJGb3VuZGF0aW9uUG9zZSA2RCBvYmplY3QgcG9zZSB0cmFja2luZyBkZW1vbnN0cmF0aW9uIiBzdHlsZT0iZGlzcGxheTpibG9jazt3aWR0aDoxMDAlO21heC13aWR0aDo5NjBweDttYXJnaW46MS41cmVtIGF1dG87Ym9yZGVyLXJhZGl1czowLjc1cmVtO2JveC1zaGFkb3c6MCAxMHB4IDMwcHggcmdiYSgwLDAsMCwwLjE2KTsiPgogIDxzb3VyY2Ugc3JjPSJkZW1vLXYyLm1wNCIgdHlwZT0idmlkZW8vbXA0Ij4KICBZb3VyIGJyb3dzZXIgZG9lcyBub3Qgc3VwcG9ydCBlbWJlZGRlZCBNUDQgdmlkZW8uCjwvdmlkZW8+CgoqRm91bmRhdGlvblBvc2UgNkQgb2JqZWN0LXBvc2UgdHJhY2tpbmcgb24gcmVjb3JkZWQgZGF0YS4gVGhpcyBpbGx1c3RyYXRlcyB0aGUgcGVyY2VwdGlvbiBwaXBlbGluZTsgb2JqZWN0LXBvc2UgaW5wdXRzIGFyZSBub3QgaW5jbHVkZWQgaW4gdGhlIGJhc2VsaW5lIGFib3ZlLioKCiMjIE9uZ29pbmcgV29yawoKRGVtb25zdHJhdGlvbiBjb2xsZWN0aW9uIG9uICoqQVJNQVItNyBhbmQgYmltYW51YWwgRnJhbmthKiogaXMgb25nb2luZy4gVGhlIG5leHQgc3RhZ2UgaXMgdG8gaW50ZWdyYXRlIG9iamVjdCB0cmFqZWN0b3JpZXMgaW50byB0aGUgcG9saWN5IGFuZCBldmFsdWF0ZSBhZGFwdGF0aW9uIGFjcm9zcyBlbWJvZGltZW50cyBhZ2FpbnN0IHRoZSByZWZlcmVuY2UgcG9saWN5LgoKIyMgVG9vbHMKCioqSXNhYWMgTGFiIMK3IEdSMDBUIMK3IExlUm9ib3QgwrcgUHlUb3JjaCDCtyBTQU0zIMK3IEZvdW5kYXRpb25Qb3NlIMK3IFB5dGhvbiDCtyBUZWxlb3BlcmF0aW9uKioK
+---
+title: "Cross-Embodiment Bimanual VLA Adaptation"
+date: 2026-08-01
+lastmod: 2026-09-26
+summary: "Master’s thesis across ARMAR-6, ARMAR-7, and bimanual Franka: approximately 10 hours of ARMAR-6 demonstrations, a trained GR00T baseline, and object-centered task representations under investigation."
+tags:
+  - VLA
+  - Embodied AI
+  - Robot Learning
+tech_stack:
+  - Isaac Lab
+  - GR00T
+  - LeRobot
+  - SAM3
+  - FoundationPose
+status: "In Progress"
+featured: true
+---
+
+## Research Question
+
+Can object-centered task representations improve the adaptation of bimanual vision-language-action (VLA) policies across robots with different embodiments?
+
+My master's thesis, *Cross-Embodiment Bimanual VLA Adaptation with Object-centered Task Representations*, investigates this question across **ARMAR-6, ARMAR-7, and bimanual Franka**.
+
+**Supervisor:** [Prof. Dr.-Ing. Tamim Asfour](https://h2t.iar.kit.edu/tamim-asfour.php)
+
+**Advisor:** Dr.-Ing. David Schneider
+
+**Laboratory:** [High Performance Humanoid Technologies (H²T)](https://h2t.iar.kit.edu/), KIT
+
+**Period:** August 2026 – present · Expected graduation: March 2027
+
+## Work Completed
+
+- **Real-robot data:** Collected approximately **10 hours of ARMAR-6 demonstrations** through teleoperation and converted them to LeRobot format for policy fine-tuning.
+- **Reference policy:** Trained a **GR00T N1.7 baseline on 80 ARMAR-6 demonstrations for 10,000 training steps**, without object-pose inputs.
+- **Object trajectories:** Built an offline **SAM3 + FoundationPose** pipeline for YCB objects in calibrated real-robot RGB-D recordings. The extracted 6D object trajectories are intended for subsequent integration as object-centered task representations.
+- **Simulation:** Built **three Isaac Lab environments**, one per embodiment, with pick-and-place, stacking, and pouring tasks, including domain randomization.
+- **Evaluation design:** Defined a cross-embodiment protocol using task success rates, paired-bootstrap 95% confidence intervals, and human-annotated failure analysis.
+
+## Baseline: Offline Action Prediction
+
+| Setting | Current baseline |
+| --- | --- |
+| Policy | GR00T N1.7 |
+| Robot | ARMAR-6 |
+| Training data | 80 demonstrations |
+| Training duration | 10,000 steps |
+| Offline evaluation | Six training trajectories from a single task |
+| Object-pose inputs | Not included |
+
+The offline evaluation compares predicted actions with recorded demonstration actions on **trajectories seen during training**. Here, `h` is the action-chunk horizon: the policy executes `h` predicted steps before re-inference. These results are a fitting check for the baseline; held-out generalization, closed-loop task success, and the effect of object-centered representations remain to be evaluated.
+
+| Action-chunk horizon (`h`) | Average unnormalized action MAE | Average unnormalized action MSE |
+| ---: | ---: | ---: |
+| 4 | **0.00495** | **0.000391** |
+| 8 | 0.00586 | 0.000464 |
+| 40 | 0.01187 | 0.001395 |
+
+The table shows the expected trade-off in this training-trajectory check: longer open-loop execution between re-inference steps produces larger offline action error.
+
+![GR00T N1.7 baseline: predicted and recorded actions on training trajectory 5](/wy_academic-cv/media/projects/gr00t-baseline-traj-5.jpeg)
+
+*Representative training-trajectory check (`h=4`). The image shows predicted and recorded actions for one of the six training trajectories.*
+
+## Object-Pose Demonstration
+
+<video controls playsinline preload="metadata" aria-label="FoundationPose 6D object pose tracking demonstration" style="display:block;width:100%;max-width:960px;margin:1.5rem auto;border-radius:0.75rem;box-shadow:0 10px 30px rgba(0,0,0,0.16);">
+  <source src="demo-v2.mp4" type="video/mp4">
+  Your browser does not support embedded MP4 video.
+</video>
+
+*FoundationPose 6D object-pose tracking on recorded data. This illustrates the perception pipeline; object-pose inputs are not included in the baseline above.*
+
+## Ongoing Work
+
+Demonstration collection on **ARMAR-7 and bimanual Franka** is ongoing. The next stage is to integrate object trajectories into the policy and evaluate adaptation across embodiments against the reference policy.
+
+## Tools
+
+**Isaac Lab · GR00T · LeRobot · PyTorch · SAM3 · FoundationPose · Python · Teleoperation**

@@ -1,1 +1,70 @@
-LS0tCnRpdGxlOiAiTGFuZ3VhZ2UtR3VpZGVkIFBpY2stYW5kLVBsYWNlIHdpdGggRHluYW1pYyBUYXJnZXQgVHJhY2tpbmciCmRhdGU6IDIwMjYtMDUtMDEKbGFzdG1vZDogMjAyNi0wOS0yNgpzdW1tYXJ5OiAiUGVyY2VwdGlvbiwgdHJhY2tpbmcsIGFuZCB0YXNrIGludGVncmF0aW9uIGZvciBsYW5ndWFnZS1ndWlkZWQgbWFuaXB1bGF0aW9uLCBhY2hpZXZpbmcgODYuNyUgKDI2LzMwKSBlbmQtdG8tZW5kIGxhbmd1YWdlLXRvLXBsYWNlbWVudCBzdWNjZXNzIGluIGEgdHdvLXBlcnNvbiBwcm9qZWN0LiIKdGFnczoKICAtIFJvYm90aWMgUGVyY2VwdGlvbgogIC0gTWFuaXB1bGF0aW9uCiAgLSBWTE0KdGVjaF9zdGFjazoKICAtIFJPUyAyCiAgLSBNdUpvQ28KICAtIEdyb3VuZGluZ0RJTk8KICAtIFNBTTIKICAtIEZvdW5kYXRpb25Qb3NlCiAgLSBNb3ZlSXQKc3RhdHVzOiAiQ29tcGxldGVkIgpmZWF0dXJlZDogdHJ1ZQotLS0KCiMjIE92ZXJ2aWV3CgpCdWlsdCBhIHBpcGVsaW5lIHRoYXQgY29udmVydHMgdGV4dCBvciBzcGVlY2ggaW5zdHJ1Y3Rpb25zIGludG8gdGFyZ2V0IHNlbGVjdGlvbiwgb2JqZWN0IHRyYWNraW5nLCBhbmQgc2VtYW50aWMgcGxhY2VtZW50IG9uIGEgKipVUjEwZSoqIHNldHVwLgoKKipDb3Vyc2UgcHJvamVjdDoqKiBBSVIgZ3JvdXAsIEluc3RpdHV0ZSBmb3IgTWF0ZXJpYWwgSGFuZGxpbmcgYW5kIExvZ2lzdGljcyAoSUZMKSwgS0lUCgoqKlBlcmlvZDoqKiBNYXkg4oCTIEF1Z3VzdCAyMDI2IMK3ICoqVGVhbToqKiAyCgojIyBQZXJzb25hbCBDb250cmlidXRpb24KCkkgd2FzIHJlc3BvbnNpYmxlIGZvciAqKnBlcmNlcHRpb24sIGR5bmFtaWMgdGFyZ2V0IHRyYWNraW5nLCBhbmQgdGhlIHRhc2sgcGlwZWxpbmUqKi4gSSBpbnRlZ3JhdGVkIGxhbmd1YWdlLWNvbmRpdGlvbmVkIHRhcmdldCBzZWxlY3Rpb24sIHNlZ21lbnRhdGlvbiwgNkQgcG9zZSBlc3RpbWF0aW9uLCBzZW1hbnRpYyBzb3J0aW5nLCBhbmQgUkdCLUQgYmluIGxvY2FsaXphdGlvbiB3aXRoICoqbXkgdGVhbW1hdGUncyBncmFzcCBzdWJzeXN0ZW0qKi4KCiMjIERlbW9uc3RyYXRpb24KCjx2aWRlbyBjb250cm9scyBwbGF5c2lubGluZSBwcmVsb2FkPSJtZXRhZGF0YSIgYXJpYS1sYWJlbD0iVmlzaW9uLSBhbmQgbGFuZ3VhZ2UtZ3VpZGVkIHJvYm90aWMgZ3Jhc3BpbmcgZGVtb25zdHJhdGlvbiIgc3R5bGU9ImRpc3BsYXk6YmxvY2s7d2lkdGg6MTAwJTttYXgtd2lkdGg6OTYwcHg7bWFyZ2luOjEuNXJlbSBhdXRvO2JvcmRlci1yYWRpdXM6MC43NXJlbTtib3gtc2hhZG93OjAgMTBweCAzMHB4IHJnYmEoMCwwLDAsMC4xNik7Ij4KICA8c291cmNlIHNyYz0iZGVtby5tcDQiIHR5cGU9InZpZGVvL21wNCI+CiAgWW91ciBicm93c2VyIGRvZXMgbm90IHN1cHBvcnQgZW1iZWRkZWQgTVA0IHZpZGVvLgo8L3ZpZGVvPgoKKkRlbW9uc3RyYXRpb24gb2YgdGhlIGludGVncmF0ZWQgbGFuZ3VhZ2UtZ3VpZGVkIHBpY2stYW5kLXBsYWNlIHN5c3RlbS4qCgojIyBMYW5ndWFnZS10by1UYXJnZXQgUGlwZWxpbmUKCkNvbWJpbmVkICoqV2hpc3BlcioqLCBZQ0ItdmFsaWRhdGVkIFZMTSBvdXRwdXRzLCAqKkdyb3VuZGluZ0RJTk8vU0FNMioqIHNlZ21lbnRhdGlvbiwgYW5kICoqRm91bmRhdGlvblBvc2UqKiA2RCBwb3NlIGVzdGltYXRpb24uCgpUYXJnZXQtc2VsZWN0aW9uIGFjY3VyYWN5IHdhcyAqKjkzLjPigJMxMDAlKiogYWNyb3NzIEVuZ2xpc2ggdGV4dCwgQ2hpbmVzZSB0ZXh0LCBhbmQgQ2hpbmVzZSBzcGVlY2gsIGFuZCAqKjg2LjclKiogZm9yIEVuZ2xpc2ggc3BlZWNoLCB3aXRoICoqMTUgdHJpYWxzIHBlciBjb25kaXRpb24qKi4KCiMjIFRyYWNraW5nIGFuZCBQb3NlIEhhbmRvdmVyCgpEZXNpZ25lZCBhIHRyYWNraW5nL3Bvc2l0aW9uLWJhc2VkIHZpc3VhbCBzZXJ2b2luZyAoUEJWUykgc3RhdGUgbWFjaGluZSB3aXRoICoqU0FNMiByZS1kZXRlY3Rpb24gYWZ0ZXIgdGFyZ2V0IGxvc3MqKiBhbmQgKiptYXNrIHJlZnJlc2ggaW4gdGhlIHN0YWJsZSBzdGF0ZSBiZWZvcmUgcG9zZSBlc3RpbWF0aW9uKiouCgp8IE1ldHJpYyB8IEJlZm9yZSB8IEFmdGVyIHwKfCAtLS0gfCAtLS0gfCAtLS0gfAp8IFRyYWNraW5nIHJldGVudGlvbiB8IDc4LjQlIHwgKio4Ny45JSoqIHwKfCBQb3NlLWhhbmRvdmVyIHN1Y2Nlc3MgfCA3My4zJSB8ICoqOTMuMyUqKiB8CnwgSWRlbnRpdHktc3dpdGNoIHJhdGUgfCAxNi43JSB8ICoqNi43JSoqIHwKCkV2YWx1YXRlZCBvdmVyICoqMzAgbWF0Y2hlZCBtb3Rpb24gc2VxdWVuY2VzIHBlciBjb25maWd1cmF0aW9uKiouCgojIyBEaWFnbm9zaW5nIFJHQi1EIERlc3luY2hyb25pemF0aW9uCgpUcmFjZWQgYXBwcm94aW1hdGVseSAqKjAuOSBtIHNpbmdsZS1mcmFtZSBkZXB0aCBqdW1wcyoqIHRvIFJHQi1EIGRlc3luY2hyb25pemF0aW9uLiBUaWdodGVuZWQgdGhlIFJHQuKAk2RlcHRoIHBhaXJpbmcgdGhyZXNob2xkIGZyb20gKioxLjAgcyB0byAwLjEwIHMqKiBhbmQgYWRkZWQgYSBsYXRjaGVkICoqTG9zdCoqIHN0YXRlIHRvIHByZXZlbnQgaW5jb25zaXN0ZW50IG9ic2VydmF0aW9ucyBmcm9tIGRyaXZpbmcgdGhlIHJvYm90LgoKIyMgRW5kLXRvLUVuZCBFdmFsdWF0aW9uCgpJbnRlZ3JhdGVkIHNlbWFudGljIHNvcnRpbmcgYW5kIFJHQi1EIGJpbiBsb2NhbGl6YXRpb24gd2l0aCB0aGUgZ3Jhc3Agc3Vic3lzdGVtLCBhY2hpZXZpbmcgKio4Ni43JSAoMjYvMzApIGxhbmd1YWdlLXRvLXBsYWNlbWVudCBzdWNjZXNzKiouIEVhY2ggZmFpbHVyZSB3YXMgYXR0cmlidXRlZCB0byBpdHMgZmlyc3QgYmxvY2tpbmcgc3RhZ2UgaW4gdGhlIHBpcGVsaW5lLgoKIyMgVG9vbHMKCioqUk9TIDIgwrcgTXVKb0NvIMK3IFVSMTBlIMK3IE1vdmVJdCDCtyBXaGlzcGVyIMK3IFZMTSDCtyBHcm91bmRpbmdESU5PIMK3IFNBTTIgwrcgRm91bmRhdGlvblBvc2UgwrcgUHl0aG9uKioK
+---
+title: "Language-Guided Pick-and-Place with Dynamic Target Tracking"
+date: 2026-05-01
+lastmod: 2026-09-26
+summary: "Perception, tracking, and task integration for language-guided manipulation, achieving 86.7% (26/30) end-to-end language-to-placement success in a two-person project."
+tags:
+  - Robotic Perception
+  - Manipulation
+  - VLM
+tech_stack:
+  - ROS 2
+  - MuJoCo
+  - GroundingDINO
+  - SAM2
+  - FoundationPose
+  - MoveIt
+status: "Completed"
+featured: true
+---
+
+## Overview
+
+Built a pipeline that converts text or speech instructions into target selection, object tracking, and semantic placement on a **UR10e** setup.
+
+**Course project:** AIR group, Institute for Material Handling and Logistics (IFL), KIT
+
+**Period:** May – August 2026 · **Team:** 2
+
+## Personal Contribution
+
+I was responsible for **perception, dynamic target tracking, and the task pipeline**. I integrated language-conditioned target selection, segmentation, 6D pose estimation, semantic sorting, and RGB-D bin localization with **my teammate's grasp subsystem**.
+
+## Demonstration
+
+<video controls playsinline preload="metadata" aria-label="Vision- and language-guided robotic grasping demonstration" style="display:block;width:100%;max-width:960px;margin:1.5rem auto;border-radius:0.75rem;box-shadow:0 10px 30px rgba(0,0,0,0.16);">
+  <source src="demo.mp4" type="video/mp4">
+  Your browser does not support embedded MP4 video.
+</video>
+
+*Demonstration of the integrated language-guided pick-and-place system.*
+
+## Language-to-Target Pipeline
+
+Combined **Whisper**, YCB-validated VLM outputs, **GroundingDINO/SAM2** segmentation, and **FoundationPose** 6D pose estimation.
+
+Target-selection accuracy was **93.3–100%** across English text, Chinese text, and Chinese speech, and **86.7%** for English speech, with **15 trials per condition**.
+
+## Tracking and Pose Handover
+
+Designed a tracking/position-based visual servoing (PBVS) state machine with **SAM2 re-detection after target loss** and **mask refresh in the stable state before pose estimation**.
+
+| Metric | Before | After |
+| --- | --- | --- |
+| Tracking retention | 78.4% | **87.9%** |
+| Pose-handover success | 73.3% | **93.3%** |
+| Identity-switch rate | 16.7% | **6.7%** |
+
+Evaluated over **30 matched motion sequences per configuration**.
+
+## Diagnosing RGB-D Desynchronization
+
+Traced approximately **0.9 m single-frame depth jumps** to RGB-D desynchronization. Tightened the RGB–depth pairing threshold from **1.0 s to 0.10 s** and added a latched **Lost** state to prevent inconsistent observations from driving the robot.
+
+## End-to-End Evaluation
+
+Integrated semantic sorting and RGB-D bin localization with the grasp subsystem, achieving **86.7% (26/30) language-to-placement success**. Each failure was attributed to its first blocking stage in the pipeline.
+
+## Tools
+
+**ROS 2 · MuJoCo · UR10e · MoveIt · Whisper · VLM · GroundingDINO · SAM2 · FoundationPose · Python**

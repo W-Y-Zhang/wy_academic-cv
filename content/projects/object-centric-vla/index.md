@@ -1,8 +1,8 @@
 ---
 title: "Cross-Embodiment Bimanual VLA Adaptation"
 date: 2026-08-01
-lastmod: 2026-09-26
-summary: "Master’s thesis across ARMAR-6, ARMAR-7, and bimanual Franka: approximately 10 hours of ARMAR-6 demonstrations, a trained GR00T baseline, and object-centered task representations under investigation."
+lastmod: 2026-10-15
+summary: "Master’s thesis across ARMAR-6, ARMAR-7, and bimanual Franka: approximately 20 hours of ARMAR-6 demonstrations, a trained GR00T baseline, and object-centered task representations under investigation."
 tags:
   - VLA
   - Embodied AI
@@ -33,11 +33,18 @@ My master's thesis, *Cross-Embodiment Bimanual VLA Adaptation with Object-center
 
 ## Work Completed
 
-- **Real-robot data:** Collected approximately **10 hours of ARMAR-6 demonstrations** through teleoperation and converted them to LeRobot format for policy fine-tuning.
-- **Reference policy:** Trained a **GR00T N1.7 baseline on 80 ARMAR-6 demonstrations for 10,000 training steps**, without object-pose inputs.
+- **Real-robot data:** Collected approximately **20 hours of ARMAR-6 demonstrations** through teleoperation and converted them to LeRobot format for policy fine-tuning.
+- **Reference policy:** Trained a **GR00T N1.7 baseline on 80 ARMAR-6 demonstrations for 20,000 training steps**, without object-pose inputs.
 - **Object trajectories:** Built an offline **SAM3 + FoundationPose** pipeline for YCB objects in calibrated real-robot RGB-D recordings. The extracted 6D object trajectories are intended for subsequent integration as object-centered task representations.
 - **Simulation:** Built **three Isaac Lab environments**, one per embodiment, with pick-and-place, stacking, and pouring tasks, including domain randomization.
 - **Evaluation design:** Defined a cross-embodiment protocol using task success rates, paired-bootstrap 95% confidence intervals, and human-annotated failure analysis.
+
+## VLA Examples
+
+<video controls playsinline preload="metadata" aria-label="Cross-embodiment vision-language-action examples" style="display:block;width:100%;max-width:960px;margin:1.5rem auto;border-radius:0.75rem;box-shadow:0 10px 30px rgba(0,0,0,0.16);">
+  <source src="vla-examples.mp4" type="video/mp4">
+  Your browser does not support embedded MP4 video.
+</video>
 
 ## Baseline: Offline Action Prediction
 
@@ -46,7 +53,7 @@ My master's thesis, *Cross-Embodiment Bimanual VLA Adaptation with Object-center
 | Policy | GR00T N1.7 |
 | Robot | ARMAR-6 |
 | Training data | 80 demonstrations |
-| Training duration | 10,000 steps |
+| Training duration | 20,000 steps |
 | Offline evaluation | Six training trajectories from a single task |
 | Object-pose inputs | Not included |
 
